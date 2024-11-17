@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="568.156" tests="7" skipped="0" failures="0" errors="0">
+<testcase classname="user Action on AsianPaints" name="To validate that user should be able to mouse hover on services" time="54.281">
+<system-out><![CDATA[
+Given open the Browser and url shoud be navigated...........................passed
+And Click on Login icon.....................................................passed
+And Enter Phonenumber of ten Digits.........................................passed
+And Click on proceed........................................................passed
+When user mouse hover on Services...........................................passed
+Then Subfeatures should be Displayed........................................passed
+Then Subfeatures should be Displayed........................................passed
+]]></system-out>
+</testcase>
+<testcase classname="user Action on AsianPaints" name="To Validate that user able to ScrollDown The WebPage until Interior Wall Painting ImageLink and Royale Glitz Page should be Displayed" time="69.897">
+<system-out><![CDATA[
+Given open the Browser and url shoud be navigated...........................passed
+And Click on Login icon.....................................................passed
+And Enter Phonenumber of ten Digits.........................................passed
+And Click on proceed........................................................passed
+When user mouse hover on Services...........................................passed
+Then Subfeatures should be Displayed........................................passed
+And click on Painting Services link.........................................passed
+And ScrollDown The WebPage until Interior Wall Painting ImageLink...........passed
+And Click on Interior Wall Painting ImageLink...............................passed
+When Click on ROYALE GLITZ..................................................passed
+Then Royale Glitz Page should be Displayed..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="user Action on AsianPaints" name="To validate That Find your perfect Wall Paint Product with a few clicks Page should Display." time="85.474">
+<system-out><![CDATA[
+Given open the Browser and url shoud be navigated...........................passed
+And Click on Login icon.....................................................passed
+And Enter Phonenumber of ten Digits.........................................passed
+And Click on proceed........................................................passed
+When user mouse hover on Services...........................................passed
+Then Subfeatures should be Displayed........................................passed
+When user mouse hover on Services...........................................passed
+And click on Wall paint product finder......................................passed
+And click on Interior radio button..........................................passed
+And click on Yes radio button...............................................passed
+And click on Gloss..........................................................passed
+And click on  Wall proceed..................................................passed
+Then enter the valid creadential............................................passed
+And click on View Recommendations button....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="user Action on AsianPaints" name="To validate that Interior Design Budget Calculator Page should Display" time="70.819">
+<system-out><![CDATA[
+Given open the Browser and url shoud be navigated...........................passed
+And Click on Login icon.....................................................passed
+And Enter Phonenumber of ten Digits.........................................passed
+And Click on proceed........................................................passed
+When user mouse hover on Services...........................................passed
+Then Subfeatures should be Displayed........................................passed
+And click on  Interior design services......................................passed
+And ScrollDown The WebPage until Interior Design Calculator ImageLink.......passed
+And click on Interior Design Calculator ImageLink...........................passed
+]]></system-out>
+</testcase>
+<testcase classname="user Action on AsianPaints" name="Validate that user should be able to select multiple checkboxes. - #1.1" time="95.236">
+<system-out><![CDATA[
+Given open the Browser and url shoud be navigated...........................passed
+And Click on Login icon.....................................................passed
+And Enter Phonenumber of ten Digits.........................................passed
+And Click on proceed........................................................passed
+When user mouse hover on Services...........................................passed
+Then Subfeatures should be Displayed........................................passed
+When click on Wood paint product finder.....................................passed
+And ScrollDown the WebPage until the Premium range wood finish explore button.passed
+And click on Premium range wood finish explore button.......................passed
+Then the user selects the 0 checkbox in the filter..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="user Action on AsianPaints" name="Validate that user should be able to select multiple checkboxes. - #1.2" time="102.232">
+<system-out><![CDATA[
+Given open the Browser and url shoud be navigated...........................passed
+And Click on Login icon.....................................................passed
+And Enter Phonenumber of ten Digits.........................................passed
+And Click on proceed........................................................passed
+When user mouse hover on Services...........................................passed
+Then Subfeatures should be Displayed........................................passed
+When click on Wood paint product finder.....................................passed
+And ScrollDown the WebPage until the Premium range wood finish explore button.passed
+And click on Premium range wood finish explore button.......................passed
+Then the user selects the 1 checkbox in the filter..........................passed
+]]></system-out>
+</testcase>
+<testcase classname="user Action on AsianPaints" name="Validate that user should be able to select multiple checkboxes. - #1.3" time="89.724">
+<system-out><![CDATA[
+Given open the Browser and url shoud be navigated...........................passed
+And Click on Login icon.....................................................passed
+And Enter Phonenumber of ten Digits.........................................passed
+And Click on proceed........................................................passed
+When user mouse hover on Services...........................................passed
+Then Subfeatures should be Displayed........................................passed
+When click on Wood paint product finder.....................................passed
+And ScrollDown the WebPage until the Premium range wood finish explore button.passed
+And click on Premium range wood finish explore button.......................passed
+Then the user selects the 2 checkbox in the filter..........................passed
+]]></system-out>
+</testcase>
+</testsuite>
